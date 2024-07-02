@@ -9,7 +9,7 @@
 
 - Link [Download Win2](https://win2.asia/id-id/downloads)
 
-- 👨‍💻 All of my projects are available at [https://kampret.online/](https://kampret.online/)
+- 👨‍💻 All of my projects are available at [Win2Online](https://kampret.online/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
