@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Win2Online</h1>
-<h3 align="center">Win2Online Agen Hiburan Online Terpercaya 2024</h3>
+<h1 align="center">Hi 👋, I'm Win2Online | Win2</h1>
+<h3 align="center">Win2Online | Win2 Agen Hiburan Online Terpercaya 2024</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=win2online&label=Profile%20views&color=0e75b6&style=flat" alt="win2online" /> </p>
 
