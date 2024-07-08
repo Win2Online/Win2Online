@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Win2Online | Win2</h1>
-<h3 align="center">Win2Online | Win2 Agen Hiburan Online Terpercaya 2024</h3>
+<h1 align="center">Hi 👋, I'm Win2Asia | Win2</h1>
+<h3 align="center">Win2Asia | Win2 Agen Hiburan Online Terpercaya 2024</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=win2online&label=Profile%20views&color=0e75b6&style=flat" alt="win2online" /> </p>
 
 - Link [Daftar Win2](https://s.id/win2-asia)
 
-- Link [Login Win2](https://h9.w2ss.com/id-id/login)
+- Link [Login Win2](https://h5.win2ab.com/id-id/login)
 
 - Link [Download Win2](https://win2.asia/id-id/downloads)
 
-- 👨‍💻 All of my projects are available at [Win2Online](https://kampret.online/)
+- 👨‍💻 All of my projects are available at [Win2Asia](https://kampret.online/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
