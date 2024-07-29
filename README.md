@@ -4,7 +4,7 @@ Profil Win2
 Tentang Win2
 ------------
 
-**[Win2](https://win2.online)** adalah platform agen properti online terkemuka yang menghadirkan pengalaman mencari dan menjual properti yang menyenangkan dan mendebarkan bagi para penggemar real estate. Sebagai bagian integral dari Win2, Win2 menawarkan berbagai jenis properti berkualitas tinggi yang dirancang untuk memberikan pilihan terbaik dan peluang investasi yang besar.
+[Win2 platform agen properti online](https://github.com/Win2Online) terkemuka yang menghadirkan pengalaman mencari dan menjual properti yang menyenangkan dan mendebarkan bagi para penggemar real estate. Sebagai bagian integral dari Win2, Win2 menawarkan berbagai jenis properti berkualitas tinggi yang dirancang untuk memberikan pilihan terbaik dan peluang investasi yang besar.
 
 [![daftar-slot](https://i.ibb.co.com/8DMQ291/daftar-slot.gif)](https://s.id/win2-asia)
 
